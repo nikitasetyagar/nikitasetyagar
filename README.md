@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Niki, an ever-learning human being from earth.
+I'm Niki, an everlearning human being from earth.
 
 - 🔭 I’m currently working as a data analyst and expanding my portfolio
 - 🌱 I’m currently learning voice over and sport data analysis
